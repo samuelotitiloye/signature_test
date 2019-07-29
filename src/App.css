@@ -1,5 +1,7 @@
 .App {
   text-align: center;
+  height: 100%;
+  width: 100%;
 }
 
 .App-logo {
@@ -21,6 +23,12 @@
 
 .App-link {
   color: #61dafb;
+}
+
+.sig-canvas{
+  height:150px;
+  width: 500px;
+  background-color: pink;
 }
 
 @keyframes App-logo-spin {
